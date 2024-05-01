@@ -1,0 +1,77 @@
+body {
+    font-family: roboto, sans-serif;
+}
+
+.navbar {
+    background-color: rgba(61, 4, 4, 1) ;
+
+}
+
+.nav .nav-link.active {
+    background-color: #c7a50cc2;
+    color: rgb(0, 0, 0);
+}
+
+.fundo {
+    background-image: url(
+        Imagens/fu.jpg 
+    );  
+}
+
+#sobre,
+#cardapio,
+#carousel,
+#contato {
+    background-color: rgb(241, 241, 218,0.95)
+}
+
+.navbar-brand,
+.navbar-brand:hover
+  {
+    color: #c7a50cc2; 
+}
+
+.nav .nav-link {
+    color: #c7a50cc2; 
+    font-size: 25px;
+}
+
+.navbar-brand,
+.h2
+{
+    font-family:lobster, cursive;
+    font-size:60px;
+}
+
+.navbar-toggler {
+    background-color: #c7a50cc2 
+}
+
+.nav-cardapio .nav-link.active {
+    background-color: #c7a50cc2 ;
+    color:  rgba(61, 4, 4, 1);
+    font-family:lobster, cursive;
+    font-size:50px;
+} 
+
+.nav-cardapio .nav-link {
+    color:  rgba(61, 4, 4, 1);
+    font-family:lobster, cursive;
+
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: rgba(61, 4, 4, 1);;
+}
+
+#butao {
+    background-color: #c7a50cc2 ;
+    color: rgba(61, 4, 4, 1);
+}
+
